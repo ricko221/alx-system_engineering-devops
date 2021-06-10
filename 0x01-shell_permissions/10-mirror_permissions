@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 354 home
+chmod 664 home
