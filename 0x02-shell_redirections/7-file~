@@ -1,0 +1,3 @@
+#!/bin/bash
+cat> a*\a ’ a”Holberton School”a ’ a\*$?*****:)a
+					       
